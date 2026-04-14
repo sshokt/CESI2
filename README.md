@@ -14,12 +14,19 @@ Création d'un dossier DevOps avec 3 fichiers txt dedans
 Modification du file1 en file1.txt
 --
 
+
 ##X. Sources
 --
 https://codeur-pro.fr/github-et-acces-par-tokens/
 https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 --
 
+## Tableau de commandes
+
+| Commandes  | Descriptions |
+| ------------- | ------------- |
+| Git push  | Pousser les modifs dans le repo  |
+| Git Commit  | Afficher un message motif  |
 
 ```mermaid
 gitGraph
