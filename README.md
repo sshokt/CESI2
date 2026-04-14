@@ -20,9 +20,8 @@ https://codeur-pro.fr/github-et-acces-par-tokens/
 https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 --
 
----
-title: Example Git diagram
----
+
+```mermaid
 gitGraph
    commit id: "Initial commit"
    branch develop
@@ -38,3 +37,4 @@ gitGraph
    checkout main
    merge develop
    commit id: "Merge final"
+```
